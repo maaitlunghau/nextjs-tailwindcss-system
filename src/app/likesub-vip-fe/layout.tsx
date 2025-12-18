@@ -14,7 +14,7 @@ export default function LikeSubLayout({
             <ClientSidebar />
 
             {/* Main Content */}
-            <div className="flex-1 transition-all duration-300 ease-in-out bg-amber-100">
+            <div className="flex-1 transition-all duration-300 ease-in-out">
                 {/* Header */}
                 <ClientHeader />
 
