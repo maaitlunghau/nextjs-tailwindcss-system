@@ -1,4 +1,4 @@
-export default function Greeting() {
+export default function ClientPage() {
     return (
         <div>
             👋 Hello Customers
